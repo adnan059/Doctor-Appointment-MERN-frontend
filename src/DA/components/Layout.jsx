@@ -76,6 +76,11 @@ const Layout = ({ children }) => {
               </div>
             </div>
             <div className="body">{children}</div>
+            <div className="footer">
+              This demo web application is created only for study purpose | No
+              information here is valid | Designed and Developed by MD ADNAN
+              FARUK
+            </div>
           </div>
         </div>
       </div>
